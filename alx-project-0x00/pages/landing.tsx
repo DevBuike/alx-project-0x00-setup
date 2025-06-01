@@ -19,6 +19,7 @@ const Landing: React.FC =  () => {
       <Button title="Large - sm" styles="text-lg px-6 py-3 rounded-sm" />
       <Button title="Large - md" styles="text-lg px-6 py-3 rounded-md" />
       <Button title="Large - full" styles="text-lg px-6 py-3 rounded-full" />
+      
 
       <Card />
     </div>
